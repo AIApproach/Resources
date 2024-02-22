@@ -1,4 +1,4 @@
-#                        نادي نهج الذكاء الأصطناعي  
+#                                             نادي نهج الذكاء الأصطناعي  
 
 ![](	https://aiapproachclub.com/images/logo-color.png)
 
