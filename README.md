@@ -20,9 +20,6 @@
 * [ورشة بناء مستقبلك المهني بإحتراف على منصة LinkedIn | م. علاء المقطري | نادي نهج الذكاء الاصطناعي](https://www.youtube.com/watch?v=aWNRJbeeEv8)
 
 
-* [CS50’s Intro to Artificial Intelligence](https://cs50.harvard.edu/ai/2020) - This course explores the concepts and algorithms at the foundation of modern artificial intelligence
-* [MIT: Intro to Deep Learning](https://introtodeeplearning.com) - A seven day bootcamp designed in MIT to introduce deep learning methods and applications
-
 ## كتب
 
 * [Machine Learning for Mortals (Mere and Otherwise)](https://www.manning.com/books/machine-learning-for-mortals-mere-and-otherwise) - Early access book that provides basics of machine learning and using R programming language.
