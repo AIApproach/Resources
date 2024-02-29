@@ -13,10 +13,10 @@
 
 ## كورسات & ورشات نادي نهج
 * [كورس تحليل البيانات باستخدام البايثون | Data Analysis | نادي نهج الذكاء الاصطناعي](https://www.youtube.com/playlist?list=PL6rf96_rBBjhTpMYULFpBHWmwSgrl00aB)
+* [الذكاء الاصطناعي وكيف يمكن الاستفادة منه](https://www.youtube.com/watch?v=o96jddIW-Hw)
 * [ورشات وندوات نادي نهج الذكاء الاصطناعي](https://www.youtube.com/playlist?list=PL6rf96_rBBjiU81m1ENzpcDCA6d7fuHET)
 * [أدوات الذكاء الاصطناعي](https://www.youtube.com/playlist?list=PL6rf96_rBBjhAMVI1ngkhn3gERA54wwVR)
 * [بودكاست عرب AI](https://www.youtube.com/playlist?list=PL6rf96_rBBjhD5K0plXJbcdCEhS9ges2G)
-* [الذكاء الاصطناعي وكيف يمكن الاستفادة منه](https://www.youtube.com/watch?v=o96jddIW-Hw)
 * [ورشة بناء مستقبلك المهني بإحتراف على منصة LinkedIn | م. علاء المقطري | نادي نهج الذكاء الاصطناعي](https://www.youtube.com/watch?v=aWNRJbeeEv8)
 
 
