@@ -34,13 +34,41 @@
 * [Intelligent agents and paradigms for AI](https://youtu.be/7o2GzSj86e8?t=3457)
 
 
-## ادوات 
-* [ChatGPT](https://www.manning.com/books/machine-learning-for-mortals-mere-and-otherwise) - T هو نموذج لغوي يعتمد على تقنية -3.5GPT من OpenAI.
-يعتبر ChatGPT جزًءا من أدوات الذكاء االصطناعي التي تهدف إلى
-توليدنصوصمفهومةواستجاباتللمحادثات
-* [MIT Battlecode](https://www.battlecode.org/)
-* [AI Challenge](http://aichallenge.org)
-* [AI Games](http://theaigames.com)
+## أدوات 
+* [ChatGPT](https://chat.openai.com/auth/login) -  
+
+* [Wise Chat](https://play.google.com/store/apps/detailsid=thanhnamitit.com.wisechat&pli=1) - 
+* [Gemini](https://gemini.google.com/app)
+* [Bing](https://play.google.com/store/apps/details?id=com.microsoft.bing&pcampaignid=web_share)-
+* [Perplexity](https://www.perplexity.ai/)-
+* [Kaleido](https://www.kaleido.ai/)-
+* [Phind](https://www.phind.com/search?home=true)-
+* [Chat Doc](https://chatdoc.com/)-
+* [Quillbot](https://quillbot.com/)-
+* [TTsmaker](https://ttsmaker.com/ar)-
+* []()-
+* []()-
+* []()-
+* []()-
+* []()-
+* []()-
+* []()-
+* []()-
+* []()-
+* []()-
+* []()-
+* []()-
+* []()-
+* []()-
+* []()-
+* []()-
+* []()-
+* []()-
+* []()-
+* []()-
+* []()-
+* []()-
+* []()-
 
 ## تعلم 
 
