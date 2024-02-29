@@ -12,7 +12,12 @@
 8. [تعلم](#تعلم)
 
 ## كورسات & ورشات نادي نهج
-* [ورشة بناء مستقبلك المهني بإحتراف على منصة LinkedIn | م. علاء المقطري | نادي نهج الذكاء الاصطناعي](https://www.youtube.com/watch?v=aWNRJbeeEv8) 
+* [كورس تحليل البيانات باستخدام البايثون | Data Analysis | نادي نهج الذكاء الاصطناعي](https://www.youtube.com/playlist?list=PL6rf96_rBBjhTpMYULFpBHWmwSgrl00aB)
+* [ورشات وندوات نادي نهج الذكاء الاصطناعي](https://www.youtube.com/playlist?list=PL6rf96_rBBjiU81m1ENzpcDCA6d7fuHET)
+* [أدوات الذكاء الاصطناعي](https://www.youtube.com/playlist?list=PL6rf96_rBBjhAMVI1ngkhn3gERA54wwVR)
+* [بودكاست عرب AI](https://www.youtube.com/playlist?list=PL6rf96_rBBjhD5K0plXJbcdCEhS9ges2G)
+* [الذكاء الاصطناعي وكيف يمكن الاستفادة منه](https://www.youtube.com/watch?v=o96jddIW-Hw)
+* [ورشة بناء مستقبلك المهني بإحتراف على منصة LinkedIn | م. علاء المقطري | نادي نهج الذكاء الاصطناعي](https://www.youtube.com/watch?v=aWNRJbeeEv8)
 
 
 * [CS50’s Intro to Artificial Intelligence](https://cs50.harvard.edu/ai/2020) - This course explores the concepts and algorithms at the foundation of modern artificial intelligence
