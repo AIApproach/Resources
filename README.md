@@ -35,7 +35,9 @@
 
 
 ## ادوات 
-
+* [ChatGPT](https://www.manning.com/books/machine-learning-for-mortals-mere-and-otherwise) - T هو نموذج لغوي يعتمد على تقنية -3.5GPT من OpenAI.
+يعتبر ChatGPT جزًءا من أدوات الذكاء االصطناعي التي تهدف إلى
+توليدنصوصمفهومةواستجاباتللمحادثات
 * [MIT Battlecode](https://www.battlecode.org/)
 * [AI Challenge](http://aichallenge.org)
 * [AI Games](http://theaigames.com)
