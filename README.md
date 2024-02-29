@@ -72,10 +72,18 @@
 
 ## تعلم 
 
-* [HTML](html.com) 
-* [Neural Networks And Deep Learning](http://neuralnetworksanddeeplearning.com) - Neural networks and deep learning currently provide the best solutions to many problems in image recognition, speech recognition, and natural language processing. This book will teach you the core concepts behind neural networks and deep learning
-
-
-
+* [HTML](https://html.com/) 
+* [CSS](https://web.dev/learn/css.com/) 
+* [JavaScript](https://javascript.info.com/) 
+* [React](https://reactplay.io.com/) 
+* [vue](https://learnvue.co/) 
+* [Git](https://git-scm.com/book) 
+* [Web3](https://learnweb3.io.com/) 
+* [python3](https://learnpython.org/) 
+* [SQL](https://w3schools.com/sql) 
+* [Blockchain](https://cryptozombies.io.) 
+* [Nextjs](https://nextjs.org/learn/) 
+* [API](https://rapidapi.com/learn/) 
+* [GO](https://learn-golang.org/) 
 ## من نحن 
 نادي نهج الذكاء الاصطناعي هو مبادرة تضم مختصين وباحثين وشغوفين بمجال الذكاء الاصطناعي، وتهدف لنشر الوعي بأهمية الذكاء الإصطناعي وتوفير بيئة خصبة لتعليمه ورفع نسبة المختصين في مجال الذكاء الاصطناعي وخلق وعي حول المسارات الذكاء الاصطناعي التعليمية والمهنية
