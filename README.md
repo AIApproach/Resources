@@ -73,7 +73,7 @@
 ## تعلم 
 
 * [HTML](https://html.com/) 
-* [CSS](https://web.dev/learn/css.com/) 
+* [CSS]([https://web.dev/learn/css.com/](https://web.dev/learn/css)) 
 * [JavaScript](https://javascript.info.com/) 
 * [React](https://reactplay.io.com/) 
 * [vue](https://learnvue.co/) 
