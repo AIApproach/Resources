@@ -35,8 +35,7 @@
 
 
 ## أدوات 
-* [ChatGPT](https://chat.openai.com/auth/login) -  
-
+* [ChatGPT](https://chat.openai.com/auth/login) - يمكن استخدام في مجموعة متنوعة من التطبيقات، مثل محادثات الدردشة، والتوليف الإبداعي للنصوص، والمساعدة الافتراضية في مواقع الويب،والإجابة على الأسئلة،والكثير من الاستخدام الأخرى  
 * [Wise Chat](https://play.google.com/store/apps/detailsid=thanhnamitit.com.wisechat&pli=1) - 
 * [Gemini](https://gemini.google.com/app)
 * [Bing](https://play.google.com/store/apps/details?id=com.microsoft.bing&pcampaignid=web_share)-
