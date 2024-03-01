@@ -56,10 +56,10 @@
 * [Copy](https://www.copy.ai/)-
 * [AIPRM](https://www.aiprm.com/)-
 * [Fliki](https://fliki.ai/)-
-* []()-
-* []()-
-* []()-
-* []()-
+* [Cleanup.pictures](https://cleanup.pictures/)-
+* [Scrip](https://scripai.com)-
+* [Matecat](https://www.matecat.com)-
+* [Chattube](https://chattube.io/)-
 
 
 ## تعلم 
