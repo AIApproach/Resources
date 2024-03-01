@@ -35,29 +35,56 @@
 
 
 ## أدوات 
-* [ChatGPT](https://chat.openai.com/auth/login) - يمكن استخدام في مجموعة متنوعة من التطبيقات، مثل محادثات الدردشة، والتوليف الإبداعي للنصوص، والمساعدة الافتراضية في مواقع الويب،والإجابة على الأسئلة،والكثير من الاستخدام الأخرى  
-* [Wise Chat](https://play.google.com/store/apps/detailsid=thanhnamitit.com.wisechat&pli=1) - 
-* [Gemini](https://gemini.google.com/app)
-* [Bing](https://play.google.com/store/apps/details?id=com.microsoft.bing&pcampaignid=web_share)-
-* [Perplexity](https://www.perplexity.ai/)-
+* [ChatGPT](https://chat.openai.com/auth/login) - مجال الاستخدام
+يمكن استخدام في مجموعة متنوعة من التطبيقات، مثل محادثات الدردشة، والتوليف الإبداعي للنصوص، والمساعدة الافتراضية في مواقع الويب،والإجابة على الأسئلة،والكثير من الاستخدام الأخرى  
+
+* [Wise Chat](https://play.google.com/store/apps/detailsid=thanhnamitit.com.wisechat&pli=1) - مجال الاستخدام
+تلقي إرشادات مهنية مخصصة، الوصول إلى نصيحة طبية موثوقة، أتقن فن المقابلة، تعميق فهمك للحياة، تحكم في مشاريعك
+
+* [Gemini](https://gemini.google.com/app)- مجال الاستخدام
+الكتابة والبرمجة والإجابة عن الاسئلة والتلخيص والترجمة ومهام متنوعة
+* [Bing](https://play.google.com/store/apps/details?id=com.microsoft.bing&pcampaignid=web_share)- مجال الاستخدام 
+الكتابة والبرمجة والإجابة عن الأسئلة والتلخيص والترجمة ومهام متنوعة  
+
+* [Perplexity](https://www.perplexity.ai/)- مجال الاستخدام
+ الإجابة عن الأسئلة، البحث عن مصادر، الكتابة وحل المعادلات الرياضية والبرمجية 
+
 * [Kaleido](https://www.kaleido.ai/)-
+* 
 * [Phind](https://www.phind.com/search?home=true)-
+
 * [Chat Doc](https://chatdoc.com/)-
+
 * [Quillbot](https://quillbot.com/)-
+
 * [TTsmaker](https://ttsmaker.com/ar)-
+
 * [Narakeet](https://www.narakeet.com/languages/arabic-text-to-speech-ar/)-
+
 * [Poe](https://poe.com/)-
+
 * [Blink](https://www.blinkvideo.ai/)-
+
 * [Stockimg](https://stockimg.ai/)-
+
 * [Adobe Sensei](https://business.adobe.com/products/sensei/adobe-sensei.html)-
+
 * [khroma](https://www.khroma.co/)-
+
 * [Otter](https://otter.ai/signin?r=%2Fhome%3Fthird_party%3Dgoogle)-
+
 * [Copy](https://www.copy.ai/)-
+
 * [AIPRM](https://www.aiprm.com/)-
+
 * [Fliki](https://fliki.ai/)-
+
 * [Cleanup.pictures](https://cleanup.pictures/)-
+
 * [Scrip](https://scripai.com)-
+
 * [Matecat](https://www.matecat.com)-
+
 * [Chattube](https://chattube.io/)-
 
 
