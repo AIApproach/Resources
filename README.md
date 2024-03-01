@@ -27,8 +27,8 @@
 
 
 ## فيدوهات
-
-* [A tutorial on Deep Learning](http://videolectures.net/jul09_hinton_deeplearn)
+* [Ahmed ibrahim](https://youtube.com/playlist?list=PLyhJeMedQd9QdHjJCqC1WuXjCSgNdz5gr&si=SoBVHqEaTIV748J6)-
+* [ () تعلم الآلة ](https://youtube.com/playlist?list=PL6-3IRz2XF5Ua2KG_Fl3lbZ-kKi3-Np0_&si=VGNw6oT4cJ1w6C_J)-  (Hesham Asem) الدورة الكاملة لتعلم الآلة قناة فن التعلم    
 * [Basics of Computational Reinforcement Learning](http://videolectures.net/rldm2015_littman_computational_reinforcement)
 * [Deep Reinforcement Learning](http://videolectures.net/rldm2015_silver_reinforcement_learning)
 * [Intelligent agents and paradigms for AI](https://youtu.be/7o2GzSj86e8?t=3457)
@@ -46,29 +46,21 @@
 * [Chat Doc](https://chatdoc.com/)-
 * [Quillbot](https://quillbot.com/)-
 * [TTsmaker](https://ttsmaker.com/ar)-
+* [Narakeet](https://www.narakeet.com/languages/arabic-text-to-speech-ar/)-
+* [Poe](https://poe.com/)-
+* [Blink](https://www.blinkvideo.ai/)-
+* [Stockimg](https://stockimg.ai/)-
+* [Adobe Sensei](https://business.adobe.com/products/sensei/adobe-sensei.html)-
+* [khroma](https://www.khroma.co/)-
+* [Otter](https://otter.ai/signin?r=%2Fhome%3Fthird_party%3Dgoogle)-
+* [Copy](https://www.copy.ai/)-
+* [AIPRM](https://www.aiprm.com/)-
+* [Fliki](https://fliki.ai/)-
 * []()-
 * []()-
 * []()-
 * []()-
-* []()-
-* []()-
-* []()-
-* []()-
-* []()-
-* []()-
-* []()-
-* []()-
-* []()-
-* []()-
-* []()-
-* []()-
-* []()-
-* []()-
-* []()-
-* []()-
-* []()-
-* []()-
-* []()-
+
 
 ## تعلم 
 
