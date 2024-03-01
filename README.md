@@ -46,7 +46,8 @@
 * [Bing](https://play.google.com/store/apps/details?id=com.microsoft.bing&pcampaignid=web_share)- مجال الاستخدام 
 الكتابة والبرمجة والإجابة عن الأسئلة والتلخيص والترجمة ومهام متنوعة  
 
-* [Perplexity](https://www.perplexity.ai/)- مجال الاستخدام
+* [Perplexity](https://www.perplexity.ai/)-
+*  مجال الاستخدام : 
  الإجابة عن الأسئلة، البحث عن مصادر، الكتابة وحل المعادلات الرياضية والبرمجية 
 
 * [Kaleido](https://www.kaleido.ai/)-
