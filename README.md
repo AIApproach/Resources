@@ -34,11 +34,16 @@
 * [كتاب «How to code in Python» ](https://t.me/AIApproach/543) - ماذا ستتعلم من الكتاب
 ستتعلم المفاهيم البرمجية الأساسية في لغة البايثون، من أجل الدخول إلى عالم البرمجة من أوسع أبوابها،رُبط هذا الكتاب مع توثيق لغة البايثون لتسهيل عملية الاطلاع على أي جزء من اللغة مباشرة وقراءة التفاصيل باللغة العربية واللغة الإنجليزية
 
-* [كتاب «How to code in Python» ](https://t.me/AIApproach/543) - ماذا ستتعلم من الكتاب
+* [كتاب : Data Analysis and Science using pandas, matplotlib and the Python Programming
+](https://t.me/AIApproach/543) - ماذا ستتعلم من الكتاب
+ستبدأ في اتخاذ الخطوات الأولى في عالم تحليل البيانات، ورؤية جميع المفاهيم والعمليات التي يتكون منها هذا التخصص  
+بالتفصيل.
 
-
-* [كتاب «How to code in Python» ](https://t.me/AIApproach/543) - ماذا ستتعلم من الكتاب
-
+* [كتاب : Python Data Analytics: With Pandas, NumPy, and Matplotlib](https://t.me/AIApproach/543) - ماذا ستتعلم من الكتاب
+فهم المفاهيم الأساسية data analysis and the Python ecosystem 
+ تعمق في استخدام pandas لقراءة البيانات وكتابتها ومعالجتها
+ استخدام الأدوات والتقنيات لتصور البيانات وتحليل الصور
+ فحص مكتبات التعلم العميق الشائعة Keras, Theano,TensorFlow, and PyTorch
 
 * [كتاب «How to code in Python» ](https://t.me/AIApproach/543) - ماذا ستتعلم من الكتاب
 
