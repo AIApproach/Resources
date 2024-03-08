@@ -31,8 +31,29 @@
 
 ## 📝كتب
 
-* [Machine Learning for Mortals (Mere and Otherwise)](https://www.manning.com/books/machine-learning-for-mortals-mere-and-otherwise) - Early access book that provides basics of machine learning and using R programming language.
-* [How Machine Learning Works](https://livebook.manning.com/book/how-machine-learning-works/welcome/v-5) - Mostafa Samir. Early access book that introduces machine learning from both practical and theoretical aspects in a non-threating way.
+* [كتاب «How to code in Python» ](https://t.me/AIApproach/543) - ماذا ستتعلم من الكتاب
+ستتعلم المفاهيم البرمجية الأساسية في لغة البايثون، من أجل الدخول إلى عالم البرمجة من أوسع أبوابها،رُبط هذا الكتاب مع توثيق لغة البايثون لتسهيل عملية الاطلاع على أي جزء من اللغة مباشرة وقراءة التفاصيل باللغة العربية واللغة الإنجليزية
+
+* [كتاب «How to code in Python» ](https://t.me/AIApproach/543) - ماذا ستتعلم من الكتاب
+
+
+* [كتاب «How to code in Python» ](https://t.me/AIApproach/543) - ماذا ستتعلم من الكتاب
+
+
+* [كتاب «How to code in Python» ](https://t.me/AIApproach/543) - ماذا ستتعلم من الكتاب
+
+
+* [كتاب «How to code in Python» ](https://t.me/AIApproach/543) - ماذا ستتعلم من الكتاب
+
+
+* [كتاب «How to code in Python» ](https://t.me/AIApproach/543) - ماذا ستتعلم من الكتاب
+
+
+* [كتاب «How to code in Python» ](https://t.me/AIApproach/543) - ماذا ستتعلم من الكتاب
+
+
+
+
 
 
 ## افضل قنوات اليوتيوب العربية في مجالات الذكاء الاصطناعي 
