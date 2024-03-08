@@ -34,21 +34,21 @@
 * [كتاب «How to code in Python» ](https://t.me/AIApproach/543?comment=2292) - ماذا ستتعلم من الكتاب
 ستتعلم المفاهيم البرمجية الأساسية في لغة البايثون، من أجل الدخول إلى عالم البرمجة من أوسع أبوابها،رُبط هذا الكتاب مع توثيق لغة البايثون لتسهيل عملية الاطلاع على أي جزء من اللغة مباشرة وقراءة التفاصيل باللغة العربية واللغة الإنجليزية
 
-* [كتاب : Data Analysis and Science using pandas, matplotlib and the Python Programming
+* [كتاب  Data Analysis and Science using pandas, matplotlib and the Python Programming
 ](https://t.me/AIApproach/478?comment=2057) - ماذا ستتعلم من الكتاب
 ستبدأ في اتخاذ الخطوات الأولى في عالم تحليل البيانات، ورؤية جميع المفاهيم والعمليات التي يتكون منها هذا التخصص  
 بالتفصيل
 
-* [كتاب : Python Data Analytics: With Pandas, NumPy, and Matplotlib](https://t.me/AIApproach/479?comment=2072) - ماذا ستتعلم من الكتاب
+* [كتاب  Python Data Analytics: With Pandas, NumPy, and Matplotlib](https://t.me/AIApproach/479?comment=2072) - ماذا ستتعلم من الكتاب
 فهم المفاهيم الأساسية data analysis and the Python ecosystem 
  تعمق في استخدام pandas لقراءة البيانات وكتابتها ومعالجتها
  استخدام الأدوات والتقنيات لتصور البيانات وتحليل الصور
  فحص مكتبات التعلم العميق الشائعة Keras, Theano,TensorFlow, and PyTorch
 
-* [كتاب :  Hands–On Machine Learning with Scikit–Learn, Keras, and TensorFlow 3e ](https://t.me/AIApproach/474) - ماذا ستتعلم من الكتاب
+* [كتاب  Hands–On Machine Learning with Scikit–Learn, Keras, and TensorFlow 3e ](https://t.me/AIApproach/474) - ماذا ستتعلم من الكتاب
 تم تصميم هذا الكتاب الشامل للمبتدئين والممارسين ذوي الخبرة، ويقدم منهجًا عمليًا لتعلم المفاهيم والتقنيات الأساسية في مجال الذكاء الاصطناعي
 
-* [كتاب : Deep Learning for Vision Systems ](https://t.me/AIApproach/494?comment=2154) - ماذا ستتعلم من الكتاب
+* [كتاب  Deep Learning for Vision Systems ](https://t.me/AIApproach/494?comment=2154) - ماذا ستتعلم من الكتاب
 يسلط هذا الكتاب الضوء على المفاهيم وراء الحدس البصري. 
 ستفهم كيفية استخدام هياكل التعلم العميق لبناء تطبيقات أنظمة الرؤية لتوليد الصور والتعرف على الوجوه
 
