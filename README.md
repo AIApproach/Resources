@@ -211,7 +211,6 @@ https://youtube.com/playlist?list=PLYW0LRZ3ePo4TFeouzYff88TStgS-X52R&si=IG8HqtR2
 نادي نهج الذكاء الاصطناعي هو مبادرة تضم مختصين وباحثين وشغوفين بمجال الذكاء الاصطناعي، وتهدف لنشر الوعي بأهمية الذكاء الإصطناعي وتوفير بيئة خصبة لتعليمه ورفع نسبة المختصين في مجال الذكاء الاصطناعي وخلق وعي حول المسارات الذكاء الاصطناعي التعليمية والمهنية
 
 [YouTube](https://github.com/AIApproach/Resources/assets/104442226/ac52695d-3499-411e-b4ab-2268657c913e)
-](https://html.com/)
 [LinkedIn](https://www.linkedin.com/company/%D9%86%D8%A7%D8%AF%D9%8A-%D9%86%D9%87%D8%AC-%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A-ai-approach-club/)
 [Facebook](https://www.facebook.com/AIApproach)
 [Instagram](https://www.instagram.com/aiapproach/)
