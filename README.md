@@ -1,5 +1,6 @@
-                        نادي نهج الذكاء الأصطناعي  
- ![ActivityPub-Dark](https://github.com/AIApproach/Resources/assets/104442226/9af5db1e-b378-4fc4-8db2-7cb69aebfbc4)#
+
+##                        نادي نهج الذكاء الأصطناعي  
+
 ![](	https://aiapproachclub.com/images/logo-color.png)
 ###                               إليك قائمة من الأدوات والكتب ومحاضرات الفيديو والمصادر التعلمية  في مجال الذكاء الاصطناعي (AI).
 
