@@ -1,4 +1,4 @@
-#                       نادي نهج الذكاء الأصطناعي  
+##                        نادي نهج الذكاء الأصطناعي  
 
 ![](	https://aiapproachclub.com/images/logo-color.png)
 ###                               إليك قائمة من الأدوات والكتب ومحاضرات الفيديو والمصادر التعلمية  في مجال الذكاء الاصطناعي (AI).
@@ -210,10 +210,10 @@ https://youtube.com/playlist?list=PLYW0LRZ3ePo4TFeouzYff88TStgS-X52R&si=IG8HqtR2
 ## من نحن 
 نادي نهج الذكاء الاصطناعي هو مبادرة تضم مختصين وباحثين وشغوفين بمجال الذكاء الاصطناعي، وتهدف لنشر الوعي بأهمية الذكاء الإصطناعي وتوفير بيئة خصبة لتعليمه ورفع نسبة المختصين في مجال الذكاء الاصطناعي وخلق وعي حول المسارات الذكاء الاصطناعي التعليمية والمهنية
 
-[YouTube](https://github.com/AIApproach/Resources/assets/104442226/ac52695d-3499-411e-b4ab-2268657c913e)
-[LinkedIn](https://www.linkedin.com/company/%D9%86%D8%A7%D8%AF%D9%8A-%D9%86%D9%87%D8%AC-%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A-ai-approach-club/)
-[Facebook](https://www.facebook.com/AIApproach)
-[Instagram](https://www.instagram.com/aiapproach/)
-[Website](https://aiapproachclub.com/)
-
-
+<h3 align="left">الروابط</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/company/%d9%86%d8%a7%d8%af%d9%8a-%d9%86%d9%87%d8%ac-%d8%a7%d9%84%d8%b0%d9%83%d8%a7%d8%a1-%d8%a7%d9%84%d8%a7%d8%b5%d8%b7%d9%86%d8%a7%d8%b9%d9%8a-ai-approach-club/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/company/%d9%86%d8%a7%d8%af%d9%8a-%d9%86%d9%87%d8%ac-%d8%a7%d9%84%d8%b0%d9%83%d8%a7%d8%a1-%d8%a7%d9%84%d8%a7%d8%b5%d8%b7%d9%86%d8%a7%d8%b9%d9%8a-ai-approach-club/" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/aiapproach" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/aiapproach" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/aiapproach/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/aiapproach/" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/@aiapproachclub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@aiapproachclub" height="30" width="40" /></a>
+</p>
