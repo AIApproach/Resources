@@ -190,7 +190,8 @@ https://youtube.com/playlist?list=PLYW0LRZ3ePo4TFeouzYff88TStgS-X52R&si=IG8HqtR2
 
 ## 👩‍🏫تعلم مجانا 
 
-* [HTML](https://html.com/) 
+* [![My Skills](https://skillicons.dev/icons?i=html&theme=light)](https://skillicons.dev)
+[HTML](https://html.com/) 
 * [CSS](https://web.dev/learn/css) 
 * [JavaScript](https://javascript.info/) 
 * [React](https://reactplay.io/) 
@@ -210,4 +211,3 @@ https://youtube.com/playlist?list=PLYW0LRZ3ePo4TFeouzYff88TStgS-X52R&si=IG8HqtR2
 ## من نحن 
 نادي نهج الذكاء الاصطناعي هو مبادرة تضم مختصين وباحثين وشغوفين بمجال الذكاء الاصطناعي، وتهدف لنشر الوعي بأهمية الذكاء الإصطناعي وتوفير بيئة خصبة لتعليمه ورفع نسبة المختصين في مجال الذكاء الاصطناعي وخلق وعي حول المسارات الذكاء الاصطناعي التعليمية والمهنية
 
-[![My Skills](https://skillicons.dev/icons?i=html&theme=light)](https://skillicons.dev)
