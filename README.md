@@ -210,9 +210,10 @@ https://youtube.com/playlist?list=PLYW0LRZ3ePo4TFeouzYff88TStgS-X52R&si=IG8HqtR2
 ## من نحن 
 نادي نهج الذكاء الاصطناعي هو مبادرة تضم مختصين وباحثين وشغوفين بمجال الذكاء الاصطناعي، وتهدف لنشر الوعي بأهمية الذكاء الإصطناعي وتوفير بيئة خصبة لتعليمه ورفع نسبة المختصين في مجال الذكاء الاصطناعي وخلق وعي حول المسارات الذكاء الاصطناعي التعليمية والمهنية
 
-[![YouTube](https://fontawesome.com/icons/youtube?style=brands)](https://www.youtube.com/channel/YourYouTubeChannel)
-[![LinkedIn](https://fontawesome.com/icons/linkedin?style=brands)](https://www.linkedin.com/in/linkedin.com/company/نادي-نهج-الذكاء-الاصطناعي-ai-approach-club)
-[![Facebook](https://fontawesome.com/icons/facebook?style=brands)](https://www.facebook.com/facebook.com/AIApproach)
-[![Instagram](https://fontawesome.com/icons/instagram?style=brands)](https://www.instagram.com/instagram.com/aiapproach)
-[![WhatsApp](https://fontawesome.com/icons/whatsapp?style=brands)](https://api.whatsapp.com/send?phone=YourWhatsAppNumber)
-[![Telegram](https://fontawesome.com/icons/telegram?style=brands)](https://t.me/YourTelegramAccount)
+[YouTube](https://html.com/)
+[LinkedIn](https://www.linkedin.com/company/%D9%86%D8%A7%D8%AF%D9%8A-%D9%86%D9%87%D8%AC-%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A-ai-approach-club/)
+[Facebook](https://www.facebook.com/AIApproach)
+[Instagram](https://www.instagram.com/aiapproach/)
+[Website](https://aiapproachclub.com/)
+
+
