@@ -213,7 +213,7 @@ https://youtube.com/playlist?list=PLYW0LRZ3ePo4TFeouzYff88TStgS-X52R&si=IG8HqtR2
 <h3 align="left">الروابط</h3>
 <p align="left">
 <a href="https://www.linkedin.com/company/%d9%86%d8%a7%d8%af%d9%8a-%d9%86%d9%87%d8%ac-%d8%a7%d9%84%d8%b0%d9%83%d8%a7%d8%a1-%d8%a7%d9%84%d8%a7%d8%b5%d8%b7%d9%86%d8%a7%d8%b9%d9%8a-ai-approach-club/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/company/%d9%86%d8%a7%d8%af%d9%8a-%d9%86%d9%87%d8%ac-%d8%a7%d9%84%d8%b0%d9%83%d8%a7%d8%a1-%d8%a7%d9%84%d8%a7%d8%b5%d8%b7%d9%86%d8%a7%d8%b9%d9%8a-ai-approach-club/" height="30" width="40" /></a>
-<span style="margin-right: 10px;"></span>
+<span style="margin-right: 20px;"></span>
 <a href="https://www.facebook.com/aiapproach" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/aiapproach" height="30" width="40" /></a>
 <span style="margin-right: 10px;"></span>
 <a href="https://www.instagram.com/aiapproach/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/aiapproach/" height="30" width="40" /></a> 
