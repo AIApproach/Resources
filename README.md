@@ -190,8 +190,7 @@ https://youtube.com/playlist?list=PLYW0LRZ3ePo4TFeouzYff88TStgS-X52R&si=IG8HqtR2
 
 ## 👩‍🏫تعلم مجانا 
 
-* [HTML](https://html.com/) ![Uploading ActivؤityPub-Dark.svg…]()
-
+* [HTML](https://html.com/)
 * [CSS](https://web.dev/learn/css) 
 * [JavaScript](https://javascript.info/) 
 * [React](https://reactplay.io/) 
